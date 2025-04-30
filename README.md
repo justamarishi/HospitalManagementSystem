@@ -1,1 +1,2 @@
 # HospitalManagementSystem
+The Hospital Management System is a Java-based desktop application designed to manage and streamline the core functions of a hospital. Developed using Java for the application logic and MySQL as the backend database, this project aims to provide an efficient way to handle patient details, doctor information, and appointment scheduling.![image](https://github.com/user-attachments/assets/9670b0db-26cf-422d-b302-8037bcbcf104)
